@@ -92,7 +92,7 @@ const Home = () => {
 
         <div className=" w-full lg:w-1/2 overflow-scroll scrollbars lg:h-[500px] ">
           <h1 className="text-3xl border-b lg:text-4xl text-zinc-600 font-mono">
-            Your Invoide details-
+            Your Invoice details-
           </h1>
           <div className="mt-10 lg:mt-0 w-full">
             <ReactMarkdown
